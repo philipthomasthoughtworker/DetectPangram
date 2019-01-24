@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DetectPangramApplication",
+            "request": "launch",
+            "mainClass": "com.Kata.DetectPangram.DetectPangramApplication",
+            "projectName": "DetectPangram"
+        }
+    ]
+}
